@@ -1,6 +1,6 @@
 # Demonstrate "false sharing" in java 
 
-Small example project that I use to explain "false sharing" to my colleagues.
+Small example project that I used to explain "false sharing" to my colleagues.
 
 ```
 mvn install
